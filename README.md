@@ -1,12 +1,63 @@
-# React + Vite
+# 📝 React-Node Contact Form
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack contact form built with React for the front-end and Node.js for the back-end. This project allows users to submit their contact details (name, email, message), and the data is processed and stored using a Node.js server.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 [View Live on Vercel](https://react-node-contact-form.vercel.app/)
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+  **Frontend**: React.js, HTML5, CSS3, Axios (for API calls).
+- **Backend**: Node.js, Express.js.
+- **Styling**: Tailwind CSS.
+
+## Features 🌟
+
+- 🖥️ User-friendly form interface built with React.
+- 📝 Validation on form fields (e.g., email, message length).
+- 📡 Form data is sent to a Node.js server.
+
+## Getting Started 🚀
+
+Follow these steps to get the project up and running on your local machine.
+
+1. Clone the Repository
+
+git clone (https://github.com/faria-webdev404/react-node-contact-form.git)
+
+
+ 2. Install Frontend Dependencies
+
+  cd react-node-contact-form/client
+
+   npm install
+
+ 3. Install Backend Dependencies
+
+   cd ../server
+
+   npm install
+
+  5. Start the Server
+
+  cd server
+
+   npm start
+ 
+## 📸 Screenshot
+
+![App Screenshot](src/assets/images/project4.png)
+
+🙋‍♀️ Author
+
+ Made by Faria Abid
+ 
+ 💬 Contact
+
+If you have any questions or feedback, feel free to reach out to me:
+
+Email: [fariaabid473@gmail.com]
+
+
+
